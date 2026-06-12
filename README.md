@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Vaibhav 👋
 
-<!--
-**vaibhavarora1205/vaibhavarora1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
 
-Here are some ideas to get you started:
+💻 Skills:
+- HTML
+- CSS
+- JavaScript
+- React
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects:
+- Portfolio Website
+- Amazon Clone
+- Calculator App
+
+📫 Connect:
+LinkedIn: https://www.linkedin.com/in/vaibhavarora1205-/
+Email: vaibhavarora1205@gmail.com
