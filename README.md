@@ -49,9 +49,14 @@ A frontend e-commerce project built to practise React components and responsive 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavarora1205&show_icons=true&hide_border=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavarora1205&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavarora1205&layout=compact&hide_border=true&theme=github_dark)
+<!--## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavarora1205&show_icons=true&hide_border=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavarora1205&layout=compact&hide_border=true&theme=github_dark) -->
 
 <!-- OPTIONAL LEETCODE SECTION: Delete this entire section if you don't want LeetCode stats. -->
 
